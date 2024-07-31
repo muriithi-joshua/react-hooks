@@ -1,0 +1,11 @@
+
+.movie-detail {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .movie-detail iframe {
+    margin-top: 20px;
+    border: none;
+  }
+  
